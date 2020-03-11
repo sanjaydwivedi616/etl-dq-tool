@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 1,
+    "base_url": "HGSBXRAVE090",
+    "table": "CODELIST",
+    "status": "Complete"
+  },
+  {
+    "id" : 2,
+    "base_url": "HGSBXRAVE119",
+    "table": "ITM_ALIAS",
+    "status": "Complete"
+  },
+  {
+    "id" : 3,
+    "base_url": "HGSBXRAVE090",
+    "table": "CODELIST",
+    "status": "Running"
+  },
+  {
+    "id" : 4,
+    "base_url": "HGSBXRAVE274",
+    "table": "CODELIST_DECODE",
+    "status": "Failed"
+  },
+  {
+    "id" : 5,
+    "base_url": "HGSBXRAVE060",
+    "table": "CODELIST_ITM",
+    "status": "Pending"
+  }
+]
